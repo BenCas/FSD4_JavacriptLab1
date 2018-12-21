@@ -1,0 +1,21 @@
+
+let grade1 = "67%";
+alert( `Jim = ${grade1}!` );
+let grade2 = "84%";
+alert( `Tonya = ${grade2}!` );
+let grade3 = "94%";
+alert(`Ronald = ${grade3}!` );
+let grade4 = "77%";
+alert( `Kim = ${grade4}!` );
+let grade5 = "83%";
+alert( `Alice = ${grade5}!` );
+let grade6 = "79%";
+alert( `Kevin = ${grade6}!` );
+let grade7 = "96%";
+alert( `Rich = ${grade7}!` );
+let grade8 = "82%";
+alert( `Jenna = ${grade8}!` );
+let grade9 = "81%";
+alert( `Mike = ${grade9}!` );
+let grade10 = "68%";
+alert( `Andy = ${grade10}!` );
